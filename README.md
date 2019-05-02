@@ -13,7 +13,7 @@ Please make sure you already have Kubernetes cluster running.
 Download the tutorial by cloning this repository:
 
 ```
-git clone https://github.com/resouer/kubernetes-initializer-tutorial.git
+git clone https://github.com/zhiyxu/kubernetes-initializer-tutorial.git
 ```
 
 ```
@@ -22,8 +22,8 @@ cd kubernetes-initializer-tutorial
 
 ## Tutorial
 
-* [Deploy The Envoy Initializer](docs/deploy-envoy-initializer.md)
-* [Initializing Deployments](docs/initializing-deployments.md)
-* [Initializing Deployments Based On Metadata](docs/initializing-deployments-based-on-metadata.md)
-* [Cleaning Up](docs/cleanup.md)
-* [Best Practices](docs/best-practices.md)
+* [Deploy The Envoy Initializer](Deployment/docs/deploy-envoy-initializer.md)
+* [Initializing Deployments](Deployment/docs/initializing-deployments.md)
+* [Initializing Deployments Based On Metadata](Deployment/docs/initializing-deployments-based-on-metadata.md)
+* [Cleaning Up](Deployment/docs/cleanup.md)
+* [Best Practices](Deployment/docs/best-practices.md)
